@@ -1,0 +1,26 @@
+{
+  "name": "leads.form",
+  "version": "1.0.0",
+  "description": "React App Template for VTEX IO.",
+  "main": "commitlint.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quality-digital/interns.store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quality-digital/interns.store/issues"
+  },
+  "homepage": "https://github.com/quality-digital/interns.store#readme",
+  "devDependencies": {
+    "@vtex/prettier-config": "^1.0.0"
+  }
+}
